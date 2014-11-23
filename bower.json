@@ -1,0 +1,16 @@
+{
+  "name": "jwt-js",
+  "version": "1.0.1",
+  "main": "./src/jwt-token.js",
+  "ignore": "tests",
+  "homepage": "https://github.com/hodrigohamalho/jwt-js",
+  "authors": [
+    "Michael Hanson <mhanson@mozilla.com>"
+  ],
+  "description": "JSON Web Tokens implemented in pure JavaScript",
+  "keywords": [
+    "jws",
+    "token"
+  ],
+  "license": "MPL1.1/GPL2.0/LGPL2.1"
+}
