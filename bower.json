@@ -2,7 +2,7 @@
   "name": "jwt-js",
   "version": "1.0.1",
   "main": "./src/jwt-token.js",
-  "ignore": "tests",
+  "ignore": ["tests"],
   "homepage": "https://github.com/hodrigohamalho/jwt-js",
   "authors": [
     "Michael Hanson <mhanson@mozilla.com>"
